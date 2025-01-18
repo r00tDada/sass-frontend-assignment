@@ -1,0 +1,20 @@
+.projectTable {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.projectTable thead {
+  background-color: var(--primary-color);
+  color: var(--white);
+}
+
+.projectTable th,
+.projectTable td {
+  padding: 0.75rem;
+  text-align: left;
+  border: 1px solid var(--white);
+}
+
+.projectTable tbody tr:hover {
+  background-color: var(--primary-color-hover);
+}
