@@ -1,7 +1,7 @@
 # Frontend Assignment
 
 ## Deployment Link
-https://sass-frontend-assignment-b8gxbq0rs-r00tdadas-projects.vercel.app
+https://sass-frontend-assignment-kohl.vercel.app/
 
 ## Assignment
 
